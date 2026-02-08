@@ -6,7 +6,7 @@
     "engineCapacity": 689,
     "isAvailable": true,
     "releaseDate": "2023-01-15",
-    "imageUrl": "https://images.unsplash.com/photo-1605559424843-9a44ef6a1a61?auto=format&fit=crop&w=900&q=80",
+    "imageUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/mt07.jpg",
     "category": "Naked",
     "features": ["ABS", "Traction Control", "LED Lighting"],
     "manufacturer": {
@@ -190,4 +190,3 @@
     }
   }
 ]
-
