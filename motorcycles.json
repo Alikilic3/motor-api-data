@@ -15,7 +15,7 @@
       "country": "Japan",
       "foundedYear": 1955,
       "isActive": true,
-      "logoUrl": "https://images.unsplash.com/photo-1623050593783-1e41c8c41c45?auto=format&fit=crop&w=400&q=80"
+      "logoUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/logo-yamaha.jpg"
     }
   },
   {
@@ -177,7 +177,7 @@
     "engineCapacity": 659,
     "isAvailable": true,
     "releaseDate": "2022-11-11",
-    "imageUrl": "https://images.unsplash.com/photo-1610126737870-f3c1f1a63a88?auto=format&fit=crop&w=900&q=80",
+    "imageUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/Aprilia%20Tuono%20660.jpg",
     "category": "Naked",
     "features": ["Traction Control", "Wheelie Control", "Quick Shifter"],
     "manufacturer": {
