@@ -5,7 +5,7 @@
     "country": "Japan",
     "foundedYear": 1955,
     "isActive": true,
-    "logoUrl": "https://images.unsplash.com/photo-1623050593783-1e41c8c41c45?auto=format&fit=crop&w=400&q=80"
+    "logoUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/logo-yamaha.jpg"
   },
   {
     "id": "MAN-002",
@@ -21,7 +21,7 @@
     "country": "Japan",
     "foundedYear": 1948,
     "isActive": true,
-    "logoUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?auto=format&fit=crop&w=400&q=80"
+    "logoUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/logo-honda.jpg"
   },
   {
     "id": "MAN-004",
@@ -29,6 +29,6 @@
     "country": "Germany",
     "foundedYear": 1923,
     "isActive": true,
-    "logoUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=400&q=80"
+    "logoUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/logo-bmw.jpg"
   }
 ]
