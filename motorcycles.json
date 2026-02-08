@@ -1,1 +1,193 @@
+[
+  {
+    "id": "MOTO-001",
+    "name": "Yamaha MT-07",
+    "description": "De Yamaha MT-07 is een lichte en wendbare naked bike die bekend staat om zijn koppelrijke CP2-motor en speelse rijgedrag, ideaal voor zowel stadsverkeer als bochtige wegen.",
+    "engineCapacity": 689,
+    "isAvailable": true,
+    "releaseDate": "2023-01-15",
+    "imageUrl": "https://images.unsplash.com/photo-1605559424843-9a44ef6a1a61?auto=format&fit=crop&w=900&q=80",
+    "category": "Naked",
+    "features": ["ABS", "Traction Control", "LED Lighting"],
+    "manufacturer": {
+      "id": "MAN-001",
+      "name": "Yamaha",
+      "country": "Japan",
+      "foundedYear": 1955,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1623050593783-1e41c8c41c45?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-002",
+    "name": "Kawasaki Ninja 650",
+    "description": "De Ninja 650 combineert sportieve looks met comfortabel dagelijks gebruik. De motor biedt een soepele vermogensafgifte en een rechte zithouding.",
+    "engineCapacity": 649,
+    "isAvailable": true,
+    "releaseDate": "2022-05-10",
+    "imageUrl": "https://images.unsplash.com/photo-1595433562696-19c5aef5f3a5?auto=format&fit=crop&w=900&q=80",
+    "category": "Sport",
+    "features": ["ABS", "Slipper Clutch", "Digital Display"],
+    "manufacturer": {
+      "id": "MAN-002",
+      "name": "Kawasaki",
+      "country": "Japan",
+      "foundedYear": 1896,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-003",
+    "name": "Honda CB650R",
+    "description": "De Honda CB650R is een premium naked bike met een viercilindermotor en een strak Neo Sports Café design, gericht op rijders die stijl en prestaties zoeken.",
+    "engineCapacity": 649,
+    "isAvailable": true,
+    "releaseDate": "2023-03-01",
+    "imageUrl": "https://images.unsplash.com/photo-1589571894960-20bbe2828d0a?auto=format&fit=crop&w=900&q=80",
+    "category": "Naked",
+    "features": ["ABS", "Riding Modes", "Quick Shifter"],
+    "manufacturer": {
+      "id": "MAN-003",
+      "name": "Honda",
+      "country": "Japan",
+      "foundedYear": 1948,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-004",
+    "name": "BMW R 1250 GS",
+    "description": "De BMW R 1250 GS is een iconische adventure motor die uitblinkt in lange afstanden, comfort en technologie, zowel on-road als off-road.",
+    "engineCapacity": 1254,
+    "isAvailable": true,
+    "releaseDate": "2021-09-20",
+    "imageUrl": "https://images.unsplash.com/photo-1526676034660-3fda2b1d7b6b?auto=format&fit=crop&w=900&q=80",
+    "category": "Adventure",
+    "features": ["ABS Pro", "Cruise Control", "Heated Grips"],
+    "manufacturer": {
+      "id": "MAN-004",
+      "name": "BMW Motorrad",
+      "country": "Germany",
+      "foundedYear": 1923,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-005",
+    "name": "Ducati Monster",
+    "description": "De Ducati Monster staat bekend om zijn minimalistisch design en krachtige V-twin motor, ontworpen voor sportieve prestaties en een directe rijervaring.",
+    "engineCapacity": 937,
+    "isAvailable": true,
+    "releaseDate": "2022-07-08",
+    "imageUrl": "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=900&q=80",
+    "category": "Naked",
+    "features": ["ABS", "Launch Control", "Riding Modes"],
+    "manufacturer": {
+      "id": "MAN-005",
+      "name": "Ducati",
+      "country": "Italy",
+      "foundedYear": 1926,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162618071-b39a2ec0559d?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-006",
+    "name": "Suzuki SV650",
+    "description": "De Suzuki SV650 is een betrouwbare en toegankelijke motor met een V-twin karakter, geschikt voor beginnende en ervaren rijders.",
+    "engineCapacity": 645,
+    "isAvailable": false,
+    "releaseDate": "2020-04-12",
+    "imageUrl": "https://images.unsplash.com/photo-1601758064224-0c3b7c1c34c5?auto=format&fit=crop&w=900&q=80",
+    "category": "Naked",
+    "features": ["ABS", "Low RPM Assist", "Easy Start System"],
+    "manufacturer": {
+      "id": "MAN-006",
+      "name": "Suzuki",
+      "country": "Japan",
+      "foundedYear": 1909,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162617553-8e3e3f42b8c2?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-007",
+    "name": "KTM 390 Duke",
+    "description": "De KTM 390 Duke is een lichte en agressief gestylde naked bike die bekend staat om zijn wendbaarheid en funfactor.",
+    "engineCapacity": 373,
+    "isAvailable": true,
+    "releaseDate": "2023-02-18",
+    "imageUrl": "https://images.unsplash.com/photo-1610036979121-22c3c0fa2f89?auto=format&fit=crop&w=900&q=80",
+    "category": "Naked",
+    "features": ["ABS", "TFT Display", "Ride-by-Wire"],
+    "manufacturer": {
+      "id": "MAN-007",
+      "name": "KTM",
+      "country": "Austria",
+      "foundedYear": 1934,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162618097-0c9a6b3c91a3?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-008",
+    "name": "Harley-Davidson Iron 883",
+    "description": "De Iron 883 is een klassieke cruiser met een laag zadel en een rauw karakter, gericht op ontspannen ritten en iconische stijl.",
+    "engineCapacity": 883,
+    "isAvailable": false,
+    "releaseDate": "2019-06-30",
+    "imageUrl": "https://images.unsplash.com/photo-1549921296-3b4a4a3f39f4?auto=format&fit=crop&w=900&q=80",
+    "category": "Cruiser",
+    "features": ["ABS", "Belt Drive", "Low Seat Height"],
+    "manufacturer": {
+      "id": "MAN-008",
+      "name": "Harley-Davidson",
+      "country": "United States",
+      "foundedYear": 1903,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162618341-d54f0c57e2c9?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-009",
+    "name": "Triumph Street Triple RS",
+    "description": "De Street Triple RS is een high-performance naked bike met scherpe handling, geavanceerde elektronica en een krachtige driecilinder.",
+    "engineCapacity": 765,
+    "isAvailable": true,
+    "releaseDate": "2023-04-05",
+    "imageUrl": "https://images.unsplash.com/photo-1611117775350-6f61b3b5a5c6?auto=format&fit=crop&w=900&q=80",
+    "category": "Naked",
+    "features": ["Quick Shifter", "Cornering ABS", "Riding Modes"],
+    "manufacturer": {
+      "id": "MAN-009",
+      "name": "Triumph",
+      "country": "United Kingdom",
+      "foundedYear": 1902,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162617637-86d7b2e9a7f6?auto=format&fit=crop&w=400&q=80"
+    }
+  },
+  {
+    "id": "MOTO-010",
+    "name": "Aprilia Tuono 660",
+    "description": "De Aprilia Tuono 660 is een sportieve naked bike met geavanceerde rijhulpsystemen en een agressief maar comfortabel karakter.",
+    "engineCapacity": 659,
+    "isAvailable": true,
+    "releaseDate": "2022-11-11",
+    "imageUrl": "https://images.unsplash.com/photo-1610126737870-f3c1f1a63a88?auto=format&fit=crop&w=900&q=80",
+    "category": "Naked",
+    "features": ["Traction Control", "Wheelie Control", "Quick Shifter"],
+    "manufacturer": {
+      "id": "MAN-010",
+      "name": "Aprilia",
+      "country": "Italy",
+      "foundedYear": 1945,
+      "isActive": true,
+      "logoUrl": "https://images.unsplash.com/photo-1611162617798-7c91d2d1a0c2?auto=format&fit=crop&w=400&q=80"
+    }
+  }
+]
 
