@@ -30,5 +30,13 @@
     "foundedYear": 1923,
     "isActive": true,
     "logoUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/logo-bmw.jpg"
+  },
+  {
+    "id": "MAN-004",
+    "name": "BMW Motorrad",
+    "country": "Germany",
+    "foundedYear": 1923,
+    "isActive": true,
+    "logoUrl": "https://github.com/Alikilic3/motor-api-data/blob/main/images/logo-bmw.jpg"
   }
 ]
